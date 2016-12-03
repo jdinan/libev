@@ -19,7 +19,7 @@ the LICENSE provided by the authors.
 -----
 
 ##### Benchmark: http://libev.schmorp.de/bench.html
-##### Homepage: http://software.schmorp.de/pkg/libev
+##### Homepage: http://software.schmorp.de/pkg/libev.html
 ##### Listserv: libev@lists.schmorp.de
 ##### ListArchive: http://lists.schmorp.de/cgi-bin/mailman/listinfo/libev
 ##### Documentation: http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod
